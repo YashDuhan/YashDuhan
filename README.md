@@ -2,6 +2,6 @@
 
 ---
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YashDuhan?theme=dark&font=PT%20Sans&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/YashDuhan?theme=dark&font=PT%20Sans&ext=heatmap&border=0&radius=20)
 
 ---
